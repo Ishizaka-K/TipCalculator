@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8CbqAs3bNrIPyg9LM3Vg2OyZaUanr+30DPzY0l4CPO71zPxyEdm+trWvDHQ6DCoRc4G1O6A1yYV96d2Jq95T0Q==",
+  "success": true,
+  "projectFilePath": "/Users/ishizaka/Projects/TipCalculator/TipCalculator/TipCalculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/ishizaka/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ishizaka/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

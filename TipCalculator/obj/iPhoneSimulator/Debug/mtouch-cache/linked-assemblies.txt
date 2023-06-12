@@ -1,0 +1,11 @@
+RemoveDynamicRegistrar:false
+/Users/ishizaka/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app:/Users/ishizaka/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/TipCalculator.exe
+/Users/ishizaka/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app:/Users/ishizaka/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Users/ishizaka/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app:/Users/ishizaka/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/ishizaka/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app:/Users/ishizaka/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+/Users/ishizaka/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app:/Users/ishizaka/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Mono.Security.dll
+/Users/ishizaka/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app:/Users/ishizaka/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Xml.dll
+/Users/ishizaka/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app:/Users/ishizaka/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Numerics.dll
+/Users/ishizaka/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app:/Users/ishizaka/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Core.dll
+/Users/ishizaka/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app:/Users/ishizaka/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Net.Http.dll
+/Users/ishizaka/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app:/Users/ishizaka/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Drawing.Common.dll
