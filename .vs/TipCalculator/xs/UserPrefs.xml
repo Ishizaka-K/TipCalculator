@@ -11,7 +11,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TipCalculator" expanded="True">
-            <Node name="TipCalculator" expanded="True" />
+            <Node name="TipCalculator" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
