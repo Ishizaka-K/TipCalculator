@@ -1,17 +1,26 @@
 ﻿<Properties StartupConfiguration="{754CFE7C-D8E2-4B32-A60C-CEBC973A30F3}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TipCalculator PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E489F6EC-FBC1-4E26-8E36-6F8202E54E16" />
-  <MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalculator/Main.cs">
+    <Files>
+      <File FileName="TipCalculator/MyViewController.cs" Line="16" Column="49" />
+      <File FileName="TipCalculator/AppDelegate.cs" Line="10" Column="32" />
+      <File FileName="TipCalculator/Entitlements.plist" />
+      <File FileName="TipCalculator/Main.cs" Line="12" Column="1" />
+      <File FileName="TipCalculator/Info.plist" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TipCalculator" expanded="True">
-            <Node name="TipCalculator" expanded="True" selected="True" />
+            <Node name="TipCalculator" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
